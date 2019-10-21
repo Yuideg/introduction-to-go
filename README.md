@@ -1,2 +1,2 @@
 # Golabprogramming
-go program coding using go 2019
+go program coding 2019
